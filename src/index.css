@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --color-brand: #ff0000;
+  --color-white: #fff;
+  --color-black: #000;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+  overflow: hidden;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  overflow-x: hidden;
+}
