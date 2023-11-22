@@ -6,10 +6,10 @@ import SearchHeader from './components/SearchHeader';
 
 function App() {
   return (
-    <main>
+    <>
       <SearchHeader />
       <Outlet />
-    </main>
+    </>
   );
 }
 

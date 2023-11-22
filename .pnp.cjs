@@ -32,6 +32,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-react-app", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:7.0.1"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:18.2.0"],\
+          ["react-icons", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:4.12.0"],\
           ["react-router-dom", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:6.19.0"],\
           ["react-scripts", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:5.0.1"],\
           ["tailwindcss", "npm:3.3.5"],\
@@ -15145,6 +15146,28 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["react-icons", [\
+      ["npm:4.12.0", {\
+        "packageLocation": "./.yarn/cache/react-icons-npm-4.12.0-8fe2109eaf-5cc20509ca.zip/node_modules/react-icons/",\
+        "packageDependencies": [\
+          ["react-icons", "npm:4.12.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:4.12.0", {\
+        "packageLocation": "./.yarn/__virtual__/react-icons-virtual-0a1ab746d1/0/cache/react-icons-npm-4.12.0-8fe2109eaf-5cc20509ca.zip/node_modules/react-icons/",\
+        "packageDependencies": [\
+          ["react-icons", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:4.12.0"],\
+          ["@types/react", null],\
+          ["react", "npm:18.2.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/react",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["react-is", [\
       ["npm:16.13.1", {\
         "packageLocation": "./.yarn/cache/react-is-npm-16.13.1-a9b9382b4f-5aa564a1cd.zip/node_modules/react-is/",\
@@ -18296,6 +18319,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-config-react-app", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:7.0.1"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:18.2.0"],\
+          ["react-icons", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:4.12.0"],\
           ["react-router-dom", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:6.19.0"],\
           ["react-scripts", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:5.0.1"],\
           ["tailwindcss", "npm:3.3.5"],\

@@ -26,9 +26,9 @@ export default function ErrorPage() {
         src='/images/errorIcon.png' 
         alt='error' 
       />
-      <h1 className='text-4xl font-bold mt-12'>
+      <h2 className='text-4xl font-bold mt-12'>
           {`${error.status} - ${error.statusText}` || error.message}
-      </h1>
+      </h2>
       <p className='text-xl md:text-2xl font-semibold mt-4'>
         Sorry, an unexpected error has occured.
       </p>

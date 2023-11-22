@@ -21,3 +21,7 @@ html {
 #root {
   overflow-x: hidden;
 }
+
+input {
+  outline: 0;
+}
