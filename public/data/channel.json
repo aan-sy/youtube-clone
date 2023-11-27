@@ -1,0 +1,55 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "rbxljOme0Z3JEkL5AwPY8LLz-Xo",
+  "pageInfo": {
+      "totalResults": 1,
+      "resultsPerPage": 5
+  },
+  "items": [
+      {
+          "kind": "youtube#channel",
+          "etag": "DJW9oHeP1mT-4D7bI48kXGzgmTY",
+          "id": "UClRNDVO8093rmRTtLe4GEPw",
+          "snippet": {
+              "title": "곽튜브",
+              "description": "세계여행 및 음식탐방을 목표로 하는 채널입니다.\n문의 \ninsta : @jbkwak\nmail : kwaktube@sandboxnetwork.net",
+              "customUrl": "@jbkwak",
+              "publishedAt": "2018-10-16T17:14:53Z",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/FKSFztShFrbN0oshh4D5uxSWVLam_ByaV6W4TOnwIKyfJYXkNBDLGNXPBwa_HIfCl87G0hB9FQ=s88-c-k-c0x00ffffff-no-rj",
+                      "width": 88,
+                      "height": 88
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/FKSFztShFrbN0oshh4D5uxSWVLam_ByaV6W4TOnwIKyfJYXkNBDLGNXPBwa_HIfCl87G0hB9FQ=s240-c-k-c0x00ffffff-no-rj",
+                      "width": 240,
+                      "height": 240
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/FKSFztShFrbN0oshh4D5uxSWVLam_ByaV6W4TOnwIKyfJYXkNBDLGNXPBwa_HIfCl87G0hB9FQ=s800-c-k-c0x00ffffff-no-rj",
+                      "width": 800,
+                      "height": 800
+                  }
+              },
+              "localized": {
+                  "title": "곽튜브",
+                  "description": "세계여행 및 음식탐방을 목표로 하는 채널입니다.\n문의 \ninsta : @jbkwak\nmail : kwaktube@sandboxnetwork.net"
+              },
+              "country": "KR"
+          },
+          "contentDetails": {
+              "relatedPlaylists": {
+                  "likes": "",
+                  "uploads": "UUlRNDVO8093rmRTtLe4GEPw"
+              }
+          },
+          "statistics": {
+              "viewCount": "407170138",
+              "subscriberCount": "1750000",
+              "hiddenSubscriberCount": false,
+              "videoCount": "321"
+          }
+      }
+  ]
+}
