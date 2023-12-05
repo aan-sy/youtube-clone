@@ -9,11 +9,13 @@ const queryClient = new QueryClient();
 
 function App() {
   return (
-    <QueryClientProvider client={queryClient}>
+    <>
       <SearchHeader />
-      <Outlet />
-      <ReactQueryDevtools initialIsOpen={false} />
-    </QueryClientProvider>
+      <QueryClientProvider client={queryClient}>
+        <Outlet />
+        <ReactQueryDevtools initialIsOpen={false} />
+      </QueryClientProvider>
+    </>
   );
 }
 

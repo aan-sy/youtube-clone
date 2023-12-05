@@ -23,7 +23,7 @@ const router = createBrowserRouter([
         element: <Videos />
       },
       {
-        path: "/videos/:search",
+        path: "/videos/:keyword",
         element: <Videos />
       },
       {

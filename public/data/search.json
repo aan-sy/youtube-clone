@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7DwN3PJKs9IHQ4t2TWfmzH81R7I",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "hCsKxCC9F26BkRuxfTx6d8twNzg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "uiz7EsMPsuw"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-19T11:46:12Z",
+              "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+              "title": "NewJeans (뉴진스) - GODS | Worlds 2023 Finals Opening Ceremony Presented by Mastercard",
+              "description": "Watch the live performance of GODS by NewJeans during the Worlds 2023 Finals Opening Ceremony. For all things Worlds, visit ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/uiz7EsMPsuw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "League of Legends",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-19T11:46:12Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "2HMGSHgsK4sQu_cRmvxVzwUxRyY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "C3GouGa0noM"
+          },
+          "snippet": {
+              "publishedAt": "2023-10-04T04:57:09Z",
+              "channelId": "UC2t5bjwHdUX4vM2g8TRDq5g",
+              "title": "GODS ft. NewJeans (뉴진스) (Official Music Video) | Worlds 2023 Anthem - League of Legends",
+              "description": "This is the story of an unbreakable spirit and the unbending heart of a champion. The official anthem and music video for Worlds ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/C3GouGa0noM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/C3GouGa0noM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/C3GouGa0noM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "League of Legends",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-10-04T04:57:09Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "kFgNSaNSvzsHb4h7xwm_nFuwudg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Tw0EKb0R28Y"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-20T01:50:00Z",
+              "channelId": "UC9ZmFEgVwLieP6FZYtAsy9g",
+              "title": "NewJeans - &quot;Super Shy&quot; + &quot;OMG&quot; [2023 Billboard Music Awards]",
+              "description": "BBMAs #NewJeans #BillboardMusicAwards NewJeans perform \"Super Shy\" and \"OMG\" at the 2023 Billboard Music Awards.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Tw0EKb0R28Y/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Billboard Music Awards",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-20T01:50:00Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "qnhiGsgZK5fP4hfnr-1v9zi3txc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ArmDp-zijuc"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-07T03:58:10Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "NewJeans (뉴진스) &#39;Super Shy&#39; Official MV",
+              "description": "NewJeans (뉴진스) 'Super Shy' Official MV Producer: MIN HEE JIN Music Video Director: Heewon Shin 0:00 Super Shy 1:44 Join ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ArmDp-zijuc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ArmDp-zijuc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ArmDp-zijuc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-07T03:58:10Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "qJI2aguZBhN5NSh20Y6-QGyntes",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "jOTfBlKSQYY"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-21T03:58:10Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "NewJeans (뉴진스) &#39;ETA&#39; Official MV",
+              "description": "NewJeans (뉴진스) 'ETA' Official MV Producer: MIN HEE JIN Music Video Director: Wooseok Shin In collaboration with Apple, this ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/jOTfBlKSQYY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/jOTfBlKSQYY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/jOTfBlKSQYY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-21T03:58:10Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "8L_mfpHx3vuAbN8-yFvcWPGkzMA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "yIBQpq5CHMA"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-24T12:41:55Z",
+              "channelId": "UCK1sVuXaDvJeNwl9noN5nOA",
+              "title": "뉴진스, ‘INTRO + ETA &amp; Super Shy’ 축하공연 [제44회 청룡영화상 시상식] | KBS 231124 방송",
+              "description": "뉴진스, 'INTRO + ETA & Super Shy' 축하공연 #영화상 #제44회청룡영화상 #청룡영화상하이라이트 #김혜수 #유연석 #뉴진스 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/yIBQpq5CHMA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/yIBQpq5CHMA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/yIBQpq5CHMA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "KBS Entertain",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-24T12:41:55Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "kOIkQglLZVcZrsE2fqYsFT_fg6o",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCMki_UkHb4qSc0qyEcOHHJw"
+          },
+          "snippet": {
+              "publishedAt": "2022-07-07T08:51:57Z",
+              "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+              "title": "NewJeans",
+              "description": "NewJeans Official YouTube NewJeans 공식 유튜브 채널.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/dLGCnr9YbATXl48C6yhJnD-OuEWgTYZIdbLrzJD_YLCR7YtpfChrt-eVfWUsuXWDUDQIwOsO=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/dLGCnr9YbATXl48C6yhJnD-OuEWgTYZIdbLrzJD_YLCR7YtpfChrt-eVfWUsuXWDUDQIwOsO=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/dLGCnr9YbATXl48C6yhJnD-OuEWgTYZIdbLrzJD_YLCR7YtpfChrt-eVfWUsuXWDUDQIwOsO=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "NewJeans",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-07-07T08:51:57Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "C0lxumIq4yu2EjIfLwJ_hTnc_KQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "sVTy_wmn5SU"
+          },
+          "snippet": {
+              "publishedAt": "2023-01-03T11:30:01Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "NewJeans (뉴진스) &#39;OMG&#39; Official MV (Performance ver.1)",
+              "description": "NewJeans (뉴진스) 'OMG' Official MV (Performance ver.1) Producer: MIN HEE JIN Music Video Director: Wooseok Shin ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-01-03T11:30:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Nd7MV59c7Tqqk0wybMw902qrtmc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "U6G6ZDKDvIQ"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-20T04:00:10Z",
+              "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+              "title": "Backstage at BBMAs 2023💥#NewJeans #뉴진스 #BBMAs #NewJeans_BBMAs",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/U6G6ZDKDvIQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/U6G6ZDKDvIQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/U6G6ZDKDvIQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "NewJeans",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-20T04:00:10Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "KY9M1n71oyykO5edmSJBJpxXlMk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "s4Ow55AbdCg"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-24T15:00:02Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "NewJeans (뉴진스) &#39;ETA&#39; Official MV (Performance ver.)",
+              "description": "NewJeans (뉴진스) 'ETA' Official MV (Performance ver.) Producer: MIN HEE JIN Music Video Director: Wooseok Shin © 2023 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/s4Ow55AbdCg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/s4Ow55AbdCg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/s4Ow55AbdCg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-24T15:00:02Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "9c7NWnL2nwtvBalEodYUgM_tEeo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Km71Rr9K-Bw"
+          },
+          "snippet": {
+              "publishedAt": "2022-12-30T10:00:01Z",
+              "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+              "title": "NewJeans (뉴진스) &#39;Ditto&#39; Performance Video",
+              "description": "NewJeans (뉴진스) 'Ditto' Performance Video Producer: MIN HEE JIN Performance Video Direction: Yemin Kim Performance ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Km71Rr9K-Bw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "NewJeans",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-12-30T10:00:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "1UWjRxl92I7HVctYMQ5MCLuPMaQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "io3WPSf8PwM"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-09T04:00:25Z",
+              "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+              "title": "NJ footprints 🐇🐾 #NewJeans #뉴진스  #NewJeans_GetUp #Time_to_NewJeans",
+              "description": "",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/io3WPSf8PwM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/io3WPSf8PwM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/io3WPSf8PwM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "NewJeans",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-09T04:00:25Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "v0h_YJwrI6CbpBGCqs2fH27xdkE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "52mfb3xjcfw"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-01T23:00:02Z",
+              "channelId": "UC_Ryo5ss72WPmNMUMXS0wIA",
+              "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 뉴진스 노래 모음 🎮💻NewJeans 플레이리스트🎶",
+              "description": "영상의 광고는 일정 조회수가 넘으면 자동으로 발생합니다. ✓ Video ads are automatically generated when a certain number of ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/52mfb3xjcfw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/52mfb3xjcfw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/52mfb3xjcfw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "김밥플리 KIMBAP PLAYLIST",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-01T23:00:02Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "DFf2CT82fIIqwmtVAFZwgcL_tr8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Xw-rOxA0ItI"
+          },
+          "snippet": {
+              "publishedAt": "2023-08-07T10:00:01Z",
+              "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+              "title": "NewJeans (뉴진스) Live @ Lollapalooza 2023 (Full Performance)",
+              "description": "NewJeans (뉴진스) Live @ Lollapalooza 2023 (Full Performance) 00:00 - 01:05 OPENING VCR 01:05 - 04:04 Hype Boy (Band ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Xw-rOxA0ItI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Xw-rOxA0ItI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Xw-rOxA0ItI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "NewJeans",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-08-07T10:00:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "8adu2BYpQz1wpIs96IkhkHpHuL0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "XMvcQW6T7Oo"
+          },
+          "snippet": {
+              "publishedAt": "2023-10-04T10:34:19Z",
+              "channelId": "UCG4OZ-4Z9emVJ2Rhb62FGLQ",
+              "title": "[롤드컵+뉴진스🔥🔥] 신의 권능을 보여준다면: GODS ft. NewJeans (뉴진스) (League of Legends Worlds 2023 Anthem) [가사해석/번역]",
+              "description": "10월 10일 롤드컵 개최한대서, 늘 기대하는 주제가는 언제 올라올까 했는데 이렇게 휴일 끝나자마자 바로 올라오다니.. 한국 휴일 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/XMvcQW6T7Oo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/XMvcQW6T7Oo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/XMvcQW6T7Oo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "직키(Zickii)",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-10-04T10:34:19Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "XanhGOd-QiuFaPV7GDSNtfubulY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "EEQKPr8bZEM"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-07T09:00:09Z",
+              "channelId": "UCJz3JahPht0hsxWSbMJCC1Q",
+              "title": "욕 먹을거 각오하고 올리는 뉴진스 더 현대 블랙 코디.. #shorts",
+              "description": "패션 #뉴진스 #newjeans #민지 #해린 #minji #haerin #코디 #더현대 #블랙코디 #샤넬 #chanel.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/EEQKPr8bZEM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/EEQKPr8bZEM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/EEQKPr8bZEM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "또보패션",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-07T09:00:09Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "v-t2Kw0eaeKDqbLLQhyOgUBYMZU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Krr2u8BUtLw"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-21T04:00:08Z",
+              "channelId": "UCxOqS3cYg4FaHbobICo7nFQ",
+              "title": "New Jeans",
+              "description": "Provided to YouTube by 'ADOR' New Jeans · NewJeans NewJeans 2nd EP 'Get Up' Released on: 2023-07-21 Auto-generated ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Krr2u8BUtLw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Krr2u8BUtLw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Krr2u8BUtLw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "NewJeans - Topic",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-21T04:00:08Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "CmWALFmqakIOf2U4jx2QkTZqtZ8",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "dJdqn5v4Dkw"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-25T15:00:02Z",
+              "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+              "title": "NewJeans (뉴진스) &#39;ASAP&#39; Official MV",
+              "description": "NewJeans (뉴진스) 'ASAP' Official MV Producer: MIN HEE JIN Music Video Director: Jakyoung Kim © 2023 ADOR. All Rights ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "HYBE LABELS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-25T15:00:02Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "q2zreQTbGfznKP_avqBVIZJci6U",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "bD-VM10PWdw"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-20T11:16:22Z",
+              "channelId": "UCr9BDA6HVNENZt376kzaM9g",
+              "title": "231119 GODS 뉴진스 민지 직캠 (GODS NewJeans MINJI Focus Cam) - Worlds 2023 FINALS",
+              "description": "231119 GODS 뉴진스 민지 직캠 (GODS NewJeans MINJI Focus Cam) - Worlds 2023 FINALS TWITTER @Allure_0507.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/bD-VM10PWdw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/bD-VM10PWdw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/bD-VM10PWdw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Allure",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-20T11:16:22Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "r9IbrKi7UxvXecBD0-u869q86bo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "DRL0-_53tX8"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-21T04:33:07Z",
+              "channelId": "UCzKwUwMDlCzeAiwFKDP891w",
+              "title": "New Jeans Playlist 2023 | All Songs | 뉴진스 재생 목록 [Updated]",
+              "description": "New Jeans Playlist 2023 | All Songs | 뉴진스 재생 목록 [Updated July 2023] ------ Stream on Apple Music: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/DRL0-_53tX8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/DRL0-_53tX8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/DRL0-_53tX8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Kgasa",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-21T04:33:07Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "zCPheDBqXJJuOXzwPskX0qHPfHs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Ypn0tNYixGk"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-25T10:00:33Z",
+              "channelId": "UCmHUNc4crYUyt0ptkWp81ug",
+              "title": "Newjeans (뉴진스) - 우리의 밤은 당신의 낮보다 아름답다 (Our night is more beautiful than your Day) 가사 [마이데몬 OST]",
+              "description": "newjeans #뉴진스 #가사 Artist (아티스트): NewJeans Track (트랙): 우리의 밤은 당신의 낮보다 아름답다 Album (앨범): NewJeans X ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Ypn0tNYixGk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Ypn0tNYixGk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Ypn0tNYixGk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "이개모지",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-25T10:00:33Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "HvUd4tNWSHZ-jIr-0ljTWW6XK_g",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "gz1BTVjvGbU"
+          },
+          "snippet": {
+              "publishedAt": "2023-11-18T06:00:03Z",
+              "channelId": "UCtfyAiqf095_0_ux8ruwGfA",
+              "title": "무진장 마켓 with 뉴진스 [계산대]",
+              "description": "무신사 #뉴진스 #블랙프라이데이 #무진장 #musinsa #newjeans #blackfriday 무진장 블랙프라이데이   11/22 ~ 12/3 최대 80% ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/gz1BTVjvGbU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/gz1BTVjvGbU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/gz1BTVjvGbU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "MUSINSA TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-11-18T06:00:03Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "alKTKTzxkWRz08lt2kEghXf9biw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "HJK3U9cf0OI"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-24T04:16:59Z",
+              "channelId": "UCTmHryVX-ogQ4Vwnov2NfJQ",
+              "title": "뉴진스(NewJeans) 노래모음 플레이리스트 [NewJeans PLAYLIST] (신곡포함)",
+              "description": "뉴진스 #newjeans #playlist #supershy #eta #attention #뉴진스플레이리스트 #뉴진스플리.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/HJK3U9cf0OI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/HJK3U9cf0OI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/HJK3U9cf0OI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "하기의 하고 싶은거 다하기",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-24T04:16:59Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "cKaIFdcet0NehgA8tWNn2AKLEZA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Vs_QPzvF3kA"
+          },
+          "snippet": {
+              "publishedAt": "2023-07-28T11:10:52Z",
+              "channelId": "UC_Ryo5ss72WPmNMUMXS0wIA",
+              "title": "[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭] 뉴진스 노래 모음 🏖️NewJeans 플레이리스트🎶",
+              "description": "영상의 광고는 일정 조회수가 넘으면 자동으로 발생합니다. ✓ Video ads are automatically generated when a certain number of ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Vs_QPzvF3kA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Vs_QPzvF3kA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Vs_QPzvF3kA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "김밥플리 KIMBAP PLAYLIST",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-07-28T11:10:52Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "xAy_T4c1R9xawDdGoGx8WCfh2RQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "-9mETYcio-g"
+          },
+          "snippet": {
+              "publishedAt": "2023-10-18T11:00:00Z",
+              "channelId": "UCdgfjsA0QzdqdHtxF9-9R3w",
+              "title": "뉴진스 멤버들이 전부 영어 잘하는 이유ㄷㄷ",
+              "description": "안녕하세요 이슈피드입니다 항상 재밌고 신선한 뉴스로 찾아뵙겠습니다. 구독하기 ☞ https://goo.gl/wWcGCX 영상이 재미있으셨다면 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/-9mETYcio-g/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/-9mETYcio-g/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/-9mETYcio-g/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "이슈피드",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-10-18T11:00:00Z"
+          }
+      }
+  ]
+}
