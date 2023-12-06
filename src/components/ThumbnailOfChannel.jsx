@@ -1,16 +1,12 @@
 import React from 'react';
 import { useQuery } from '@tanstack/react-query';
-import { FakeYoutube } from '../api/fakeYoutube';
-import { Youtube } from '../api/youtube';
+import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function ThumbnailOfChannel({ channelId }) {
+  const { youtube } = useYoutubeApi();
   const {isLoading, error, data: url} = useQuery({
     queryKey: ['thumbnail', channelId],
-    queryFn: () => {
-      const youtube = new FakeYoutube();
-      // const youtube = new Youtube();
-      return youtube.getThumbnailUrl(channelId);
-    },
+    queryFn: () => youtube.getThumbnailUrl(channelId),
     staleTime: 1000 * 60 * 5,
   })
   

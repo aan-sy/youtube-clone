@@ -3,11 +3,15 @@ import axios from 'axios';
 export class FakeYoutube {
   constructor() {}
 
-  async getThumbnailUrl () {
+  async getThumbnailUrl (channelId) {
+    return this.#byChannelId(channelId);
+  } 
+
+  async #byChannelId(channelId) {
     return axios
       .get('/data/channel.json')
       .then(res => res.data.items[0].snippet.thumbnails.default.url)
-  } 
+  }
 
   async getVideos (keyword) {
     return keyword ? this.#byKeyword() : this.#mostPopular();
