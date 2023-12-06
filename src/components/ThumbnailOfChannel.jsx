@@ -1,14 +1,15 @@
 import React from 'react';
 import { useQuery } from '@tanstack/react-query';
-import axios from 'axios';
+import { FakeYoutube } from '../api/fakeYoutube';
+import { Youtube } from '../api/youtube';
 
 export default function ThumbnailOfChannel({ channelId }) {
-  const {isLoading, error, data: thumbnailUrl} = useQuery({
+  const {isLoading, error, data: url} = useQuery({
     queryKey: ['thumbnail', channelId],
-    queryFn: async () => {
-      // const url = `https://youtube.googleapis.com/youtube/v3/channels?part=snippet%2CcontentDetails%2Cstatistics&id=${channelId}&key=`;
-      const url = '/data/channel.json'; 
-      return axios({ method: 'get', url}).then(res => res.data.items[0].snippet.thumbnails.default.url)
+    queryFn: () => {
+      const youtube = new FakeYoutube();
+      // const youtube = new Youtube();
+      return youtube.getThumbnailUrl(channelId);
     },
     staleTime: 1000 * 60 * 5,
   })
@@ -22,7 +23,7 @@ export default function ThumbnailOfChannel({ channelId }) {
 
   return (
     <>
-      {thumbnailUrl && <img className='shrink-0 mr-2 object-contain w-12 h-12 rounded-full' src={thumbnailUrl} alt='' />}      
+      {url && <img className='shrink-0 mr-2 object-contain w-12 h-12 rounded-full' src={url} alt='' />}      
     </>
   );
 }
