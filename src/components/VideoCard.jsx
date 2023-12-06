@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import TimeAgo from 'timeago-react';
 import ThumbnailOfChannel from './ThumbnailOfChannel';
+import Date from './Date';
 
 export default function VideoCard({ video }) {
   const { title, channelTitle, publishedAt, thumbnails, channelId } = video.snippet;
@@ -16,7 +16,7 @@ export default function VideoCard({ video }) {
             <div>
               <p className='break-words line-clamp-2'>{title}</p>
               <p className='mt-2 text-gray-500'>{channelTitle}</p>
-              <TimeAgo className='mt-1 text-gray-500' datetime={publishedAt} locale='ko' />
+              <Date datetime={publishedAt} locale='ko' />
             </div>
           </figcaption>
         </figure>

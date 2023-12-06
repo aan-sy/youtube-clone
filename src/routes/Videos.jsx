@@ -1,14 +1,8 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
-import TimeAgo from 'timeago-react';
-import * as timeago from 'timeago.js';
-import ko from 'timeago.js/lib/lang/ko';
 import axios from 'axios';
-import ThumbnailOfChannel from '../components/ThumbnailOfChannel';
 import VideoCard from '../components/VideoCard';
-
-timeago.register('ko', ko);
 
 export default function Videos() {
   const { keyword } = useParams();
