@@ -1,3 +1,5 @@
+import { decodeHTML } from 'entities';
+
 export class Youtube {
   constructor(client) {
     this.client = client;
@@ -39,7 +41,11 @@ export class Youtube {
         }
       })
       .then(res => res.data.items)
-      .then(items => items.map(item => ({...item, id: item.id.videoId})))
+      .then(items => items.map(item => ({
+        ...item, 
+        id: item.id.videoId, 
+        snippet: {...item.snippet, title: decodeHTML(item.snippet.title)}
+      })))
   }
 
   async #mostPopular() {

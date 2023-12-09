@@ -32,6 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:13.4.0"],\
           ["@testing-library/user-event", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:13.5.0"],\
           ["axios", "npm:1.6.2"],\
+          ["entities", "npm:4.5.0"],\
           ["eslint-config-react-app", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:7.0.1"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:18.2.0"],\
@@ -8301,6 +8302,13 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/entities-npm-2.2.0-0fc8d5b2f7-2c765221ee.zip/node_modules/entities/",\
         "packageDependencies": [\
           ["entities", "npm:2.2.0"]\
+        ],\
+        "linkType": "HARD"\
+      }],\
+      ["npm:4.5.0", {\
+        "packageLocation": "./.yarn/cache/entities-npm-4.5.0-7cdb83b832-ede2a35c9b.zip/node_modules/entities/",\
+        "packageDependencies": [\
+          ["entities", "npm:4.5.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -18467,6 +18475,7 @@ const RAW_RUNTIME_STATE =
           ["@testing-library/react", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:13.4.0"],\
           ["@testing-library/user-event", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:13.5.0"],\
           ["axios", "npm:1.6.2"],\
+          ["entities", "npm:4.5.0"],\
           ["eslint-config-react-app", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:7.0.1"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:111a27ed11b9de71c524809298a38c47109ca5fd3aeb372f8027b91cd07065183dd6ff9d88333849746b2831445ffe242b9044017b0ece65fc5434ad2594fe1d#npm:18.2.0"],\
