@@ -3,9 +3,9 @@ export class Youtube {
     this.client = client;
   }
 
-  async getThumbnailUrl(channelId) {
+  async getChannelInfo(channelId) {
     return this.#byChannelId(channelId);
-  } 
+  }
 
   async getVideos(keyword) {
     return keyword ? this.#byKeyword(keyword) : this.#mostPopular();
@@ -19,7 +19,13 @@ export class Youtube {
           id: channelId,
         }
       })
-      .then(res => res.data.items[0].snippet.thumbnails.default.url)
+      .then(res => res.data.items[0])
+      .then(data => (
+        {
+          url: data.snippet.thumbnails.default.url,
+          subscriberCount: data.statistics.subscriberCount
+        }
+      ))
   }
 
   async #byKeyword(keyword) {
@@ -28,24 +34,12 @@ export class Youtube {
         params: {
           part: 'snippet',
           maxResults: 25,
+          type: 'video',
           q: keyword,
         }
       })
       .then(res => res.data.items)
-      .then(items => items.map(item => {
-        let id = '';
-        switch(item.id.kind) {
-          case 'youtube#video': 
-            id = item.id.videoId;
-            break;
-          case 'youtube#channel':
-            id = item.id.channelId;
-            break;
-          case 'youtube#playlist':
-            id = item.id.playlistId;
-        }
-        return {...item, id}
-      }))
+      .then(items => items.map(item => ({...item, id: item.id.videoId})))
   }
 
   async #mostPopular() {

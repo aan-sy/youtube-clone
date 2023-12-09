@@ -10,24 +10,21 @@ export default function Videos() {
   const { isLoading, error, data: videos } = useQuery({
     queryKey: ['videos', keyword],
     queryFn: () => youtube.getVideos(keyword),
-    staleTime: 1000 * 60 * 5,
+    staleTime: 1000 * 60 * 1,
   })
 
-  if(isLoading) return <p>loading...</p>
-
-  if(error) {
-    console.error(error.response.status, error.response.statusText);
-    return <p>Sorry, {error.response.statusText}</p>
-  }
-
   return (
-    <div className='mx-4'>
-      <ul className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6'>
-        {videos && videos.map(video => (
-          <VideoCard key={video.id} video={ video } />
-        ))}
-      </ul>
-    </div>
+    <>
+      {isLoading && <p>loading...</p>}
+      {error && <p>something is wrong...</p>}
+      <div className='px-4'>
+        <ul className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 sm:gap-x-4'>
+          {videos && videos.map(video => (
+            <VideoCard key={ video.id } video={ video } />
+          ))}
+        </ul>
+      </div>
+    </>
   );
 }
 

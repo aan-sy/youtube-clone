@@ -17,7 +17,7 @@ export default function SearchHeader() {
   }, [keyword])
 
   return (
-    <header className='m-4 flex items-center gap-4'>
+    <header className='w-full p-4 pb-8 flex items-center gap-4'>
       <Link to='/' className='flex items-center' onClick={() => {setText('')}}>
         <FaYoutube className='text-brand h-full w-8 md:w-9' />
         <h1 className='hidden md:block font-oswald font-bold text-xl md:text-2xl'>YouTube</h1>
@@ -30,7 +30,7 @@ export default function SearchHeader() {
           placeholder='검색'
           onChange={handleChange}
         />
-        <button className='h-full py-2 px-5 border bg-gray-50 border-l-0 border-slate-300 rounded-r-3xl' aria-label='검색'>
+        <button className='h-full py-2 px-5 border bg-gray-100 border-l-0 border-slate-300 rounded-r-3xl' aria-label='검색'>
           <IoSearchOutline />
         </button>
       </form>

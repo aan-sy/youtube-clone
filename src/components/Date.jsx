@@ -6,7 +6,7 @@ timeago.register('ko', ko);
 
 export default function Date({ datetime, locale = 'en'}) {
   return (
-    <TimeAgo datetime={datetime} locale={locale} />
+    <TimeAgo className='text-gray-500 text-sm' datetime={datetime} locale={locale} />
   );
 }
 
